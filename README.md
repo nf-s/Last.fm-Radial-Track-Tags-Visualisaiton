@@ -7,4 +7,5 @@ Tracks which have been scrobbled and mistagged might have incorrect last.fm tags
 
 ## Example Visualisation
 Note: The text in the middle of the circle (with total number of tracks and listening time) is manually created
-![example visualisation](https://cdn.rawgit.com/nf-s/Last.fm-Radial-Track-Tags-Visualisaiton/master/example%20visualisation.svg)
+
+![alt text](https://raw.githubusercontent.com/nf-s/Last.fm-Radial-Track-Tags-Visualisation/master/example%20visualisation.svg?sanitize=true "Example Visualisation")
